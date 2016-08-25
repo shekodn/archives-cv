@@ -30,6 +30,7 @@
 
 
 body{
+
     font-family: 'Roboto', sans-serif;
     line-height: 28px;
     font-weight: 300;
@@ -547,6 +548,8 @@ SOCIAL ICON
 
 
 /* === About Section === */
+
+
 .short-info {
     margin-bottom: 40px;
 }
